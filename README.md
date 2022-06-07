@@ -6,11 +6,11 @@
 **FUNDAMENTOS DE CIRCUITOS ELECTRICOS**
 
 
-**Nombres:** Martin Coronel, Jefferson Chicaiza, Tito Obando 
+**Nombre:** Jefferson Chicaiza 
 
 **Carrera:** Electrónica y Automatizacion 
 
-**NRC:** 10133
+**NRC:** 7903
 
 
 **1. OBJETIVOS**
@@ -198,7 +198,7 @@ Entender de forma precisa los conceptos básicos de los circuitos en paralelo y 
 ![image](https://user-images.githubusercontent.com/84757114/172424299-6092e0a9-a5ef-4ee1-b15d-386c3874d7b7.png)
 
 **3.VIDEO**
-
+https://youtu.be/yBO0pC-FpOE
 
 **4.CONCLUSIONES**
 1. Comprender la teoria es la base para aplicar los conceptos en la resolución de problemas, especialmente en el funcionamiento de los circuitos en serie y paralelo.
